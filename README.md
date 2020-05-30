@@ -1,6 +1,10 @@
 # about
 商標ワードを検索、csv作成だけをこのリポジトリ に切り出し
 
+移行前の履歴はこちらで確認
+
+https://github.com/marim0ss/scripts_scrape
+
 # (venv内) Python -V
 Python 3.7.3
 
